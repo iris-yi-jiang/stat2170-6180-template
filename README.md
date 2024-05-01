@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# STAT2170/6180 Assignment, 2023 S2
+# STAT2170/6180 Assignment, 2024 S1
 
 <!-- badges: start -->
 <!-- badges: end -->
